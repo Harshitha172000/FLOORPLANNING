@@ -1,2 +1,2 @@
 # FLOORPLANNING
-Implementing Floorplanning design using simulated annealing algorithm in python.
+Implementing Floorplanning using simulated annealing algorithm in python.
